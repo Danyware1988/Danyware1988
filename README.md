@@ -39,6 +39,6 @@ Soy un desarrollador de software con pasión por la tecnología y la innovación
 
 ## Contacto
 
-- [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- [LinkedIn](https://www.linkedin.com/in/dany-daniel-vargas-urieles-b49514185/)
 - [Twitter/X](https://x.com/Danyware19)
 - [Correo](gerencia@danyware.co)
